@@ -1,0 +1,7 @@
+<suite name="Amazon Sign-In Tests">
+    <test name="Sign-In Test">
+        <classes>
+            <class name="signinModule.SigninTest"/>
+        </classes>
+    </test>
+</suite>
